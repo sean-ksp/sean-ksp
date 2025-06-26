@@ -1,8 +1,17 @@
-# 👋 Hi, I’m @sean-ksp
+# 👋 Hey there, I’m Sean Nyamutenha (@sean-ksp)
 
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, and Fitness.
-- 🌱 I’m currently learning Python and diving deeper into machine learning algorithms.
-- 💞️ I’m looking to collaborate on AI-driven projects, fitness tech, or anything that bridges tech and wellness.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sean-n-57aa64172/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining my passion for fitness and tech by building AI systems that can optimize workout routines!
+🎯 I’m an Industrial Engineer passionate about the intersection of **Artificial Intelligence**, **Machine Learning**, and **Fitness Tech**.
+
+💡 Currently exploring:
+- Python for data analysis and automation
+- Machine learning algorithms and real-world applications
+- Optimization problems in health and manufacturing
+
+🤝 I'm looking to collaborate on:
+- AI-driven wellness tools
+- Predictive maintenance and process optimization
+- Open-source projects that blend engineering with intelligent systems
+
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sean-n-57aa64172/)
+
+⚡ Fun fact: I’m building smart fitness systems that can optimize training routines using AI—and yes, I test them on myself first.
